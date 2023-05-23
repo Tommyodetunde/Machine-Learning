@@ -1,1 +1,2 @@
-# Game
+# Machine Learning
+The goal of our project is to predict the safety of cars based on different variables such as price and technical characteristics of the car. The benefits of this project are that this will help consumers in choosing safer cars by using what they know about the different factors of the car. To do this we will be looking at different regression and classification algorithms such as linear regression and K-Nearest Neighbour to help in grouping and predicting the data. Panda and Scikit-learn are the ML tools that we will be using in our project to help complete our goal.
